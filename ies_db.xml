@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programas_estudio>
+  <pe1>
+    <codigo>DPW</codigo>
+    <tipo>Modular</tipo>
+    <nombre>DISEÑO Y PROGRAMACIÓN WEB</nombre>
+    <planes_estudio>
+      <plan1>
+        <nombre>2021</nombre>
+        <resolucion>RD. 095-8566</resolucion>
+        <fecha_registro>2025-08-11 08:58:16</fecha_registro>
+      </plan1>
+      <modulos_formativos>
+        <mod1>
+          <descripcion>ANALISIS Y DISEÑO DE SISTEMAS WEB</descripcion>
+        </mod1>
+        <mod2>
+          <descripcion>DESARROLLO DE APLICACIONES WEB</descripcion>
+        </mod2>
+        <mod3>
+          <descripcion>DISEÑO DE SERVICIOS WEB</descripcion>
+        </mod3>
+      </modulos_formativos>
+    </planes_estudio>
+  </pe1>
+  <pe2>
+    <codigo>ET</codigo>
+    <tipo>Modular</tipo>
+    <nombre>ENFERMERÍA TÉCNICA</nombre>
+    <planes_estudio>
+      <plan2>
+        <nombre>2021</nombre>
+        <resolucion>RD. 095-8566</resolucion>
+        <fecha_registro>2025-08-11 08:58:32</fecha_registro>
+      </plan2>
+      <plan6>
+        <nombre>2025</nombre>
+        <resolucion>--</resolucion>
+        <fecha_registro>2025-08-11 08:59:50</fecha_registro>
+      </plan6>
+      <modulos_formativos>
+        <mod23>
+          <descripcion>ASISTENCIA EN PROMOCIÓN Y PREVENCIÓN DE LA SALUD</descripcion>
+        </mod23>
+        <mod24>
+          <descripcion>ASISTENCIA EN LA ATENCIÓN BÁSICA DE LA SALUD</descripcion>
+        </mod24>
+        <mod25>
+          <descripcion>ASISTENCIA EN LA ATENCIÓN INTEGRAL EN SALUD</descripcion>
+        </mod25>
+      </modulos_formativos>
+    </planes_estudio>
+  </pe2>
+  <pe3>
+    <codigo>IA</codigo>
+    <tipo>Modular</tipo>
+    <nombre>INDUSTRIAS ALIMENTARIAS</nombre>
+    <planes_estudio>
+      <plan3>
+        <nombre>2021</nombre>
+        <resolucion>RD. 095-8566</resolucion>
+        <fecha_registro>2025-08-11 08:58:48</fecha_registro>
+      </plan3>
+      <modulos_formativos>
+        <mod7>
+          <descripcion>MANEJO DE LA MATERIA PRIMA</descripcion>
+        </mod7>
+        <mod8>
+          <descripcion>PROCESO DE LA PRODUCCIÓN EN LA INDUSTRIA ALIMENTARIA</descripcion>
+        </mod8>
+        <mod9>
+          <descripcion>ENVASADO Y EMBALADO DE ALIMENTOS</descripcion>
+        </mod9>
+        <mod10>
+          <descripcion>CONTROL PARA EL ASEGURAMIENTO DE LA CALIDAD DE ALIMENTOS</descripcion>
+        </mod10>
+      </modulos_formativos>
+    </planes_estudio>
+  </pe3>
+  <pe4>
+    <codigo>MA</codigo>
+    <tipo>Modular</tipo>
+    <nombre>MECATRONICA AUTOMOTRIZ</nombre>
+    <planes_estudio>
+      <plan4>
+        <nombre>2021</nombre>
+        <resolucion>RD. 095-8566</resolucion>
+        <fecha_registro>2025-08-11 08:59:05</fecha_registro>
+      </plan4>
+      <plan8>
+        <nombre>2025</nombre>
+        <resolucion>--</resolucion>
+        <fecha_registro>2025-08-11 09:00:30</fecha_registro>
+      </plan8>
+      <modulos_formativos>
+        <mod30>
+          <descripcion>MANTENIMIENTO DE VEHÍCULOS CONVENCIONALES Y CON ASISTENCIA ELECTRÓNICA.</descripcion>
+        </mod30>
+        <mod31>
+          <descripcion>MANTENIMIENTO DE SISTEMAS ELECTRÍCOS Y ELECTRÓNICOS AUTOMOTRICES.</descripcion>
+        </mod31>
+        <mod32>
+          <descripcion>MANTENIMIENTO DEL SISTEMA DE TRANSMISIÓN DE VEHÍCULOS CON ASISTENCIA ELECTRÓNICA.</descripcion>
+        </mod32>
+        <mod33>
+          <descripcion>MANTENIMIENTO DE MOTORES DE COMBUSTIÓN INTERNA CON ASISTENCIA ELECTRÓNICA.</descripcion>
+        </mod33>
+      </modulos_formativos>
+    </planes_estudio>
+  </pe4>
+  <pe5>
+    <codigo>PA</codigo>
+    <tipo>Modular</tipo>
+    <nombre>PRODUCCIÓN AGROPECUARIA</nombre>
+    <planes_estudio>
+      <plan5>
+        <nombre>2021</nombre>
+        <resolucion>RD. 095-8566</resolucion>
+        <fecha_registro>2025-08-11 08:59:23</fecha_registro>
+      </plan5>
+      <plan9>
+        <nombre>2025</nombre>
+        <resolucion>--</resolucion>
+        <fecha_registro>2025-08-11 09:00:46</fecha_registro>
+      </plan9>
+      <modulos_formativos>
+        <mod26>
+          <descripcion>PREPARACIÓN DEL TERRENO E IMPLEMENTACIÓN DE INFRAESTRUCTURA AGROPECUARIA</descripcion>
+        </mod26>
+        <mod27>
+          <descripcion>SUPERVISIÓN Y EJECUCIÓN DEL PLAN OPERATIVO DE LOS PROCESOS PRODUCTIVOS AGROPECUARIOS</descripcion>
+        </mod27>
+        <mod28>
+          <descripcion>PROCESAMIENTO PRIMARIO Y APROVECHAMIENTO DE PRODUCTOS AGROPECUARIOS.</descripcion>
+        </mod28>
+        <mod29>
+          <descripcion>ALMACENAMIENTO Y COMERCIALIZACIÓN DE LA PRODUCCIÓN AGROPECUARIA</descripcion>
+        </mod29>
+      </modulos_formativos>
+    </planes_estudio>
+  </pe5>
+  <pe6>
+    <codigo>IAB</codigo>
+    <tipo>Modular</tipo>
+    <nombre>INDUSTRIAS DE ALIMENTOS Y BEBIDAS</nombre>
+    <planes_estudio>
+      <plan7>
+        <nombre>2025</nombre>
+        <resolucion>--</resolucion>
+        <fecha_registro>2025-08-11 09:00:09</fecha_registro>
+      </plan7>
+      <modulos_formativos>
+        <mod19>
+          <descripcion>RECEPCIÓN, ACONDICIONAMIENTO Y MEZCLADO DE LA MATERIA PRIMA E INSUMOS.</descripcion>
+        </mod19>
+        <mod20>
+          <descripcion>TRATAMIENTO TÉRMICO, OPERACIONES DE ELIMINACIÓN DE AGUA Y SEPARACIÓN EN EL PROCESAMIENTO DE ALIMENTOS.</descripcion>
+        </mod20>
+        <mod21>
+          <descripcion>BIOTECNOLOGÍA Y ENVASADO EN EL PROCESAMIENTO DE ALIMENTOS.</descripcion>
+        </mod21>
+        <mod22>
+          <descripcion>ASEGURAMIENTO DE LA CALIDAD.</descripcion>
+        </mod22>
+      </modulos_formativos>
+    </planes_estudio>
+  </pe6>
+</programas_estudio>
+<modulos_formativos>
+  <mod4>
+    <descripcion>ASISTENCIA EN PROMOCIÓN Y PREVENCIÓN DE LA SALUD</descripcion>
+  </mod4>
+  <mod5>
+    <descripcion>ASISTENCIA EN LA ATENCIÓN BÁSICA DE LA SALUD</descripcion>
+  </mod5>
+  <mod6>
+    <descripcion>ASISTENCIA EN LA ATENCIÓN INTEGRAL EN SALUD</descripcion>
+  </mod6>
+</modulos_formativos>
+<modulos_formativos>
+  <mod11>
+    <descripcion>MANTENIMIENTO PROGRAMADO Y REPARACIÓN DE LOS SISTEMAS DE CONTROL DEL VEHÍCULO</descripcion>
+  </mod11>
+  <mod12>
+    <descripcion>MANTENIMIENTO Y REPARACIÓN DEL SISTEMA ELÉCTRICO Y ELECTRÓNICO AUTOMOTRIZ</descripcion>
+  </mod12>
+  <mod13>
+    <descripcion>MANTENIMIENTO Y REPARACIÓN DEL SISTEMA DE TRANSMISIÓN.</descripcion>
+  </mod13>
+  <mod14>
+    <descripcion>MANTENIMIENTO Y REPARACIÓN DE MOTORES DE COMBUSTIÓN INTERNA Y SISTEMAS ELECTRÓNICOS.</descripcion>
+  </mod14>
+</modulos_formativos>
+<modulos_formativos>
+  <mod15>
+    <descripcion>GESTIÓN DE LA PRODUCCIÓN DE CULTIVOS</descripcion>
+  </mod15>
+  <mod16>
+    <descripcion>GESTIÓN DE LA PRODUCCIÓN PECUARIA</descripcion>
+  </mod16>
+  <mod17>
+    <descripcion>PREVENCIÓN Y MANEJO SANITARIO Y FITOSANITARIO</descripcion>
+  </mod17>
+  <mod18>
+    <descripcion>APROVECHAMIENTO Y MERCADEO DE PRODUCTOS AGROPECUARIOS</descripcion>
+  </mod18>
+</modulos_formativos>
